@@ -72,6 +72,10 @@ for index, row in tqdm(df_veg.iterrows()):
 df_water_output = df_water.merge(temp_water, left_on='SHEETBAR', right_on='SHEETBAR')
 df_veg_output = df_veg.merge(temp_veg, left_on='BARCODE', right_on='BARCODE')
 
+# Drop duplicates created via merge, needs debug
+df_water_output = df_water_output.drop_duplicates()
+df_veg_output = df_veg_output.drop_duplicates()
+
 # Paths to export data as .csv
 water_output_path = r'C:\Users\Doug\Documents\Classes\TDA\ltrm_water_data_lat_long.csv'
 veg_output_path = r'C:\Users\Doug\Documents\Classes\TDA\ltrm_vegsrs_data_lat_long.csv'
