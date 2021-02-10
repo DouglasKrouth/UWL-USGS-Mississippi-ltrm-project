@@ -16,4 +16,21 @@ DOUG
 4.) https://www.geeksforgeeks.org/haversine-formula-to-find-distance-between-two-points-on-a-sphere/
 - Needs proper citation; website with explanation of Haversine function to find distance between to lat/long points
 
+\bibitem{Carlsson, 1}
+  Singh, Gurjeet; Mémoli, Facundo; Carlsson, Gunnar,
+  \textit{Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition},
+  Eurographics Symposium on Point-Based Graphics, 2007.
+  
+\bibitem{Carlsson, 2}
+  P. Y. Lum; G. Singh; A. Lehman; T. Ishkanov; M. Vejdemo-Johansson; M. Alagappan; J. Carlsson; G. Carlsson,
+  \textit{Extracting insights from the shape of comp lex data using topology},
+  Sci Rep 3, 1236 (2013). https://doi.org/10.1038/srep01236
+  
+\bibitem{Shape of data, article} Ouellette, J.; Quanta Magazine; The Mathematical Shape of Big Science Data. Retrieved October 13, 2020, from {https://www.quantamagazine.org/the-mathematical-shape-of-big-science-data-20131004/}
+
+\bibitem{Hierarchical clustering} Müllner, D. (2011, September 12). Modern hierarchical, agglomerative clustering algorithms. Retrieved October 16, 2020, from https://arxiv.org/abs/1109.2378
+
+\bibitem{Bishop} Bishop, Christopher M. Pattern Recognition and Machine Learning. 2006. Vol. 1, Singapore, Springer, 2006.
+
+
 CASEY
