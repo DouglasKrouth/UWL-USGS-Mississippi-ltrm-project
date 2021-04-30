@@ -16,6 +16,40 @@ DOUG
 4.) https://www.geeksforgeeks.org/haversine-formula-to-find-distance-between-two-points-on-a-sphere/
 - Needs proper citation; website with explanation of Haversine function to find distance between to lat/long points
 
+5.) TDA Mapper (R) : https://github.com/paultpearson/TDAmapper
+- This is a cleaned-up and modified version of the Mapper code by
+Gurjeet Singh. It also corrects two bugs which are present in the
+original Mapper code.
+(c) 2010 Daniel Muellner, muellner@math.stanford.edu
+Copyright: As far as Daniel Muellner's contributions are concerned,
+this code is published under the GNU General Public License v3.0
+(see http://www.gnu.org/licenses/gpl.html). For scientific citations,
+please refer to my home page http://math.stanford.edu/~muellner. If
+you visit this page in the future, chances are high that you will find
+a Python library with improved, largely extended and freely
+distributable Mapper code there.
+Since the present code is based on Gurjeet Singh's original code,
+please also respect his copyright message.
+Below is the original copyright message:
+Mapper code -- (c) 2007-2009 Gurjeet Singh
+This code is provided as is, with no guarantees except that
+bugs are almost surely present.  Published reports of research
+using this code (or a modified version) should cite the
+article that describes the algorithm:
+  G. Singh, F. Memoli, G. Carlsson (2007).  Topological Methods for
+  the Analysis of High Dimensional Data Sets and 3D Object
+  Recognition, Point Based Graphics 2007, Prague, September 2007.
+Comments and bug reports are welcome.  Email to
+gurjeet@stanford.edu.
+I would also appreciate hearing about how you used this code,
+improvements that you have made to it, or translations into other
+languages.
+You are free to modify, extend or distribute this code, as long
+as this copyright notice is included whole and unchanged.
+
+6.) Kepler Mapper : van Veen et al., (2019). Kepler Mapper: A flexible Python implementation of the Mapper algorithm. Journal of Open Source Software, 4(42), 1315, https://doi.org/10.21105/joss.01315
+Hendrik Jacob van Veen, Nathaniel Saul, David Eargle, & Sam W. Mangham. (2019, October 14). Kepler Mapper: A flexible Python implementation of the Mapper algorithm (Version 1.4.1). Zenodo. http://doi.org/10.5281/zenodo.4077395
+
 \bibitem{Carlsson, 1}
   Singh, Gurjeet; Mémoli, Facundo; Carlsson, Gunnar,
   \textit{Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition},
